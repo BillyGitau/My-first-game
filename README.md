@@ -37,7 +37,9 @@ It's the year 2226, two leaders of the crew check a recovered bodycam footage of
 The recovered footage records time anomalies... and something from the past.
 
 **For Codédex**
+
 **Theme: The Changing of Time**
-**Made with love, care, and grind**
+
+**Made with love, care, and nightmares**
 
 Thank you for checking out my game.
