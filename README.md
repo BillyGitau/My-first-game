@@ -1,6 +1,6 @@
 # Beyond Repentance: Morrow
 
-A pixel art, VHS-footage horror mini-game blending SCP-level time warping madness and inspired from Lovecraftian cosmic horror.
+A pixel art, VHS-footage horror mini-game blending SCP-level time warping madness and inspired by Lovecraftian cosmic horror.
 ### banner
 <img width="800" height="600" alt="title" src="https://github.com/user-attachments/assets/164a9799-d327-4f7c-8edb-0de54f898e57" />
 
